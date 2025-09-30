@@ -1,0 +1,6 @@
+# Requirements for Auto Code Generator
+# No external dependencies required - uses only Python standard library
+# 
+# Optional dependencies for enhanced functionality:
+# schedule>=1.2.0  # Alternative scheduling library
+# gitpython>=3.1.0  # Alternative Git library

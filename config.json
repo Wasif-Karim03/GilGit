@@ -1,0 +1,32 @@
+{
+    "repo_path": "/Users/wasifkarim/Desktop/GitGits",
+    "git_user": "Your Name",
+    "git_email": "your.email@example.com",
+    "remote_url": "git@github.com:Wasif-Karim03/GilGit.git",
+    "schedule": {
+        "morning_time": "11:40",
+        "evening_time": "12:10"
+    },
+    "file_types": [
+        {
+            "extension": ".py",
+            "weight": 30
+        },
+        {
+            "extension": ".js",
+            "weight": 25
+        },
+        {
+            "extension": ".cpp",
+            "weight": 20
+        },
+        {
+            "extension": ".java",
+            "weight": 15
+        },
+        {
+            "extension": ".html",
+            "weight": 10
+        }
+    ]
+}
